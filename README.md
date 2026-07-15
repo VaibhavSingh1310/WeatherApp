@@ -18,10 +18,6 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - JavaScript (ES6)
 - OpenWeather API
 
-## 📷 Screenshot
-
-(Add a screenshot of your project here)
-
 ## ⚙️ Installation
 
 1. Clone the repository
